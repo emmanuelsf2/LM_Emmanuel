@@ -1,0 +1,46 @@
+*
+{
+    padding: 0.3em;
+    font-family: "Open Sans", sans-serif;
+}
+
+.cabecera
+{
+    height: 10vh;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+    text-shadow: 2px, 0px, 2px, #777;
+}
+
+.x1
+{
+    border: 1px solid black;
+    margin: 4px;
+}
+
+
+body
+{
+    border: 1px solid gray;
+}
+
+.boton
+{
+    background-color: green;
+    border-radius: 10px;
+}
+
+img
+{
+    border-radius: 15px;
+}
+
+footer
+{
+    display: flex;
+    justify-content: end    ;
+    text-align: right;
+}
